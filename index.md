@@ -11,3 +11,7 @@ My git init text
 ``` JavaScript
 var = myVar "I am still a git nub";
 ```
+
+- [x] Make a checklist example
+- [X] how about a second one?
+- [ ] commit
